@@ -1,0 +1,16 @@
+body {
+  text-align: center;
+}
+.title {
+  margin-top: 50px;
+  font-weight: bold;
+}
+
+#canvas {
+  background-color: beige;
+}
+
+button {
+  height: 50px;
+  width: 100px;
+}
